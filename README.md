@@ -1,5 +1,5 @@
-# PS-9-BE
-This repository contains the backend code for a payroll system. It is designed to handle employe data, salaries and manage payroll for an organization.
+# PAYROLL-SYSTEM-API
+This repository contains the backend code for a payroll system. It is designed to handle employee data, salaries and manage payroll for an organization.
 
 ## Tech Stack
 **Backend:** [NodeJS](https://nodejs.org), [Express](https://expressjs.com)
@@ -16,13 +16,13 @@ This repository contains the backend code for a payroll system. It is designed t
 Clone the Project
 
 ```bash
-  git clone https://github.com/learnable-2022/PS-9-BE.git
+  git clone https://github.com/maduabuchicharles50/PAYROLL-SYSTEM-API.git
 ```  
 
 Go to the project directory
 
 ```bash
-  cd PS-9-BE
+  cd PAYROLL-SYSTEM-API
 ```
 
 install dependencies
