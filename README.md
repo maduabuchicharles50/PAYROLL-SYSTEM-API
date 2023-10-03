@@ -8,8 +8,6 @@ This repository contains the backend code for a payroll system. It is designed t
 
 **API Documentation:** [Postman](https://postman.com)
 
-**Hosting:** [Render](https://render.com)
-
 
 ## Run Locally
 
