@@ -30,10 +30,3 @@ install dependencies
 ```bash
     npm install
 ```
-
-## Hosting
-The payroll system is hosted on render. 
-You can acess the live application at [Hosting](https://payroll-team9.onrender.com)
-
-## API Documentation
-[Documentation](https://documenter.getpostman.com/view/25059754/2s93m7Wgye)
